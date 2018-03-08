@@ -8,7 +8,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Mark Hays,
 """
 ###############################################################################
 #
-# TODO: 1.
+# Done: 1.
 #   Allow this module to use the  rosegraphics.py  module by marking the
 #     src
 #   folder in this project as a "Sources Root", as follows:
@@ -19,7 +19,6 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Mark Hays,
 ###############################################################################
 
 import rosegraphics as rg
-import math
 
 
 def main():
@@ -69,7 +68,7 @@ def distance(point):
 main()
 
 ###############################################################################
-# TODO: 2.
+# Done: 2.
 #
 # READ the following, asking questions as needed.
 # When you believe that you understading what is says about UNIT TESTING,
