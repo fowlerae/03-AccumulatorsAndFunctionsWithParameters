@@ -269,6 +269,8 @@ def draw_cosines_and_sines():
 
     window.close_on_mouse_click()
 
+
+
 # ----------------------------------------------------------------------
 # If this module is running at the top level (as opposed to being
 # imported by another module), then call the 'main' function.
